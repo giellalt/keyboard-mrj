@@ -6,7 +6,9 @@ displayNames:
   mrj: Кырык мары йӹлмӹ
 
 locale: mrj
- 
+
+supportedTargets: [ios, android]
+
 modes:
 # mobile layouts:
   mobile-default: |

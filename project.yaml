@@ -1,4 +1,4 @@
-internalName: mrj_keyboard
+internalName: mrj
 
 locales:
   en:
@@ -14,7 +14,7 @@ email: feedback@divvun.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-layouts: [mrj-mob]
+layouts: [mrj-mob, mrj-mac, mrj-win]
 
 version: 1.0
 build: 1
@@ -25,22 +25,30 @@ targets:
     icon: images/mrj-icon.pdf
     keyStore: $GTPRIV/admin/dev-accounts/dev_keys/sami_keyboard.keystore
     keyAlias: sami_keyboard
+    version: "1.0.0"
+    build: "1"
 
   ios: &AppleID
-    codeSignId: "Developer ID Installer: The University of Tromso (2K5J2584NX)"
+    codeSignId: "2K5J2584NX"
     provisioningProfileId: Test
     packageId: no.uit.giella.keyboards.mrj
     bundleName: *bundleName
     icon: images/mrj-icon.png
+    version: "1.0.0"
+    build: "1"
 
   osx:
     <<: *AppleID
     icon: images/mrj-keyboard-menu-icon.png
     version: 0.1.0
     resources: doc
+    version: "1.0.0"
+    build: "1"
 
   win:
     appName: *bundleName
     version: 0.1.0
     url: "http://divvun.no"
-    uuid: "replace-with-real-uuid-one-for-each-language"
+    uuid: "3BD57A4A-47E2-418B-8942-50214D3B4BBC"
+    version: "1.0.0"
+    build: "1"
