@@ -12,7 +12,7 @@ supportedTargets: [ios, android]
 modes:
 # mobile layouts:
   mobile-default: |
-  ‌  ҥ ӓ ё ҥ ӧ ӱ ӹ ъ
+    ҥ ӓ ё ҥ ӧ ӱ ӹ ъ
     й ц у к е н г ш щ з х
     ф ы в а п р о л д ж э
     я ч с м и т ь б ю
