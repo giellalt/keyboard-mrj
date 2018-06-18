@@ -1,4 +1,4 @@
-internalName: mrj
+internalName: mrj_ru-win
 
 locales:
   en:
@@ -49,6 +49,6 @@ targets:
     appName: *bundleName
     version: 0.1.0
     url: "http://divvun.no"
-    uuid: "3BD57A4A-47E2-418B-8942-50214D3B4BBC"
+    uuid: "31B7E218-9339-4A51-A2F2-396BB13D9991"
     version: "1.0.0"
     build: "1"
