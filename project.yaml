@@ -42,7 +42,6 @@ targets:
     icon: images/mrj-keyboard-menu-icon.png
     version: 0.1.0
     resources: doc
-    version: "1.0.0"
     build: "1"
 
   win:
@@ -50,5 +49,4 @@ targets:
     version: 0.1.0
     url: "http://divvun.no"
     uuid: "31B7E218-9339-4A51-A2F2-396BB13D9991"
-    version: "1.0.0"
     build: "1"
