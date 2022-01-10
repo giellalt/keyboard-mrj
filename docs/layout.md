@@ -8,10 +8,10 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## Кырык мары йӹлмӹ (macOS)
+# Кырык мары йӹлмӹ (macOS)
 
   
 
-## Кырык мары йӹлмӹ (Windows)
+# Кырык мары йӹлмӹ (Windows)
 
   
