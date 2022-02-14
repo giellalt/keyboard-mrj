@@ -10,7 +10,7 @@
 
 # Кырык мары йӹлмӹ (macOS)
 
-!|mrj_ru-mac.svg](mrj_ru-mac.svg)
+![mrj_ru-mac.svg](mrj_ru-mac.svg)
 
 # Кырык мары йӹлмӹ (Windows)
 
