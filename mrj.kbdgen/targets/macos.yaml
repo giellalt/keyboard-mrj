@@ -3,5 +3,5 @@ provisioningProfileId: Test
 packageId: no.uit.giella.keyboards.mrj
 bundleName: Western Mari Keyboards
 icon: images/mrj-keyboard-menu-icon.png
-version: 0.1.1
+version: 0.1.2
 build: 1
